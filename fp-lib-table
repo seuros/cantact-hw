@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cantact")(type "KiCad")(uri "${KIPRJMOD}/cantact.pretty")(options "")(descr "CANtact project footprints"))
+)
